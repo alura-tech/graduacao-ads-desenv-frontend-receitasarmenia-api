@@ -17,6 +17,15 @@ app.use(function(req, res, next) {
     next();
 });
 
+app.get("/", function(req, res) {
+    res.send("API Receitas Dona Armênia");
+});
+
+app.get("/v1/receitas", function(req, res) {
+    const jsonReceitas = fs.readFileSync("./receitas.json", "utf-8");
+    res.send(jsonReceitas);
+});
+
 app.get("/v1/mensagens-enviadas", function(req, res) {
     const jsonMensagens = fs.readFileSync("./mensagens.json", "utf-8");
     res.send(jsonMensagens);

@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Receita de Bolo de Fubá",
+        "texto": "Pellentesque fermentum metus sed metus luctus gravida. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla hendrerit, urna vel aliquet rhoncus, dolor ligula eleifend tortor, vitae imperdiet est velit vulputate elit. Praesent sem velit, suscipit eget sem in, hendrerit sagittis ante. Sed faucibus mattis tellus ac vehicula."
+    },
+    {
+        "titulo": "Receita de Torta de Limão",
+        "texto": "Ut non vestibulum ex. Quisque a dapibus felis. Duis porttitor in orci et luctus. Curabitur sodales magna at aliquam rhoncus. Quisque eu sodales est. Donec ultrices tincidunt nisi, a laoreet neque sagittis eget."
+    },
+    {
+        "titulo": "Receita de Strogonoff de Carne",
+        "texto": "Duis lacus mi, congue eget libero eget, vehicula semper quam. Duis eu tristique tellus. Praesent sed porta dui, vel pretium erat. Mauris ultrices dui in justo accumsan convallis. Integer ac lectus quis urna vulputate fermentum sed at dui."
+    }
+]
